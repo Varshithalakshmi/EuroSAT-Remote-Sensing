@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+.ipynb_checkpoints/
+AnnualCrop/
+Forest/
+HerbaceousVegetation/
+Highway/
+Industrial/
+Pasture/
+PermanentCrop/
+Residential/
+River/
+SeaLake/
